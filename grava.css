@@ -1,0 +1,21 @@
+CSS
+@font-face {
+  font-family: 'Grava';
+  src: url('https://cdn.jsdelivr.net/gh/vivianispn/minhas-fontes@main/Grava%20Normal.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Grava';
+  src: url('https://cdn.jsdelivr.net/gh/vivianispn/minhas-fontes@main/Grava%20Bold.otf') format('opentype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Grava';
+  src: url('https://cdn.jsdelivr.net/gh/vivianispn/minhas-fontes@main/Grava%20Oblique.otf') format('opentype');
+  font-weight: normal;
+  font-style: italic;
+}
